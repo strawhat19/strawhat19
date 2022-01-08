@@ -1,6 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rakib-ahmed19/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BEOPoUIHBQyKcaJ0ccyJrxQ%3D%3D)
-[![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=red)](https://twitter.com/StrawHat_19)
-### NA
+[![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=skyblue)](https://twitter.com/StrawHat_19)
 
 ## Technology and Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
